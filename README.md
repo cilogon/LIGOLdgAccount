@@ -1,4 +1,4 @@
-# LIGO LDG Account COmanage Registry Plugin
+# IWGN cluster Account COmanage Registry Plugin
 This plugin does the following things. 
  - Applying for a cluster account and provisoning to ldap
  - AUP signing record.
