@@ -31,3 +31,4 @@ This plugin does the following things.
  - Check how cluster admin currently provision the shared account (specially the SSH)
  - Should the cluster admin get a notification or the process should be fully automatic, as long as a grouper group manager assigns a user to a shared account group?
  - Check if there is a alredy usecase in the grouper community for using grouper for POSIX account management. 
+ - what behaviour we want if a user gets added to a shared account but their account is not provisioned at a cluster?
