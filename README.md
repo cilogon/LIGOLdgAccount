@@ -23,3 +23,6 @@ This plugin does the following things.
   - 
 ## 4. Admin interface to manage shared account and provisoning to ldap
  - Legacy non-standard cluster names?
+ - A shared account will be managed by a grouper group - based on certrain group hierarchy. For example, gstlalcbc will be a nested group inside cbc group. And the CBC group managers (presumably the CBC group chairs) can then delegate the management of gstlalcbc to a particular user.
+ - To do - do a tree diagram of this grouper group shared account structure 
+ - A sync script, like LGMM (cite here) will query the grouper stem for all the shared accounts, and assocaite the relevant shared account users with a shared account at a cluster 
